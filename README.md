@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/assets/DinoWallpaper.png" width="97" height="97">
   <h2 align="center" style="margin-top: -4px !important;">A Replica of the hidden Dinosaur Game from Chrome Browser Offline mode so you don't have to be offline to play it...😂😂</h2>
+  <p align="center">Original code cloned from this repo https://github.com/dhhruv/Chrome-Dino-Runner</p>
   <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/python-v3.8-informational">
     </a>
@@ -12,11 +10,6 @@
 </p>
 <p align="center">
 	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-</p>
-<p align="center">   
-	<a href="https://dev.to/dhhruv/chrome-dino-game-using-python-2595">
-    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
 </p>
 
 
@@ -26,32 +19,21 @@
 
 ### About:
 
--	The following represents a recreated version of the famous Dinosaur Game from Chrome Browser Offline mode implemented using **Python and PyGame**. The project file contains **Image Files** and a python script **(chromedino.py)**.
--	A simple and easy-to-use GUI is provided for better gameplay. The gameplay design is so simple that the user won’t find it difficult to use and understand. Different images are used in the development of this simple game project, the gaming environment is just like the original Chrome Dino Run game. For demo of the project, have a look at the GIF below.
-
-<p align="center">
-  <img src="https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/assets/Other/Chrome%20Dino.gif">
-</p>
+-	The following represents a recreated version of the famous Dinosaur Game from Chrome Browser Offline mode implemented using **Python and PyGame**. The project file contains **Image Files** and a python script **(main.py)**.
 
 ### Installation:
-
--	First of all, **clone the repository** using:
-```
-git clone https://github.com/dhhruv/Chrome-Dino-Runner.git
-``` 
-**OR**
 Download the Zip and extract it's contents.
 
 -	Then download the dependencies in your Command Prompt OR Terminal using:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage:
 
--	After installation, just run the [`chromedino.py`](https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/chromedino.py) using
+-	After installation, just run using
 ```
-python chromedino.py
+python main.py
 ```
 
 ### Input:
